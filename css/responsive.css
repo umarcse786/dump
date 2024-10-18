@@ -26,7 +26,7 @@
   .top-feature .main-content {padding-left: 10%;padding-right: 10%;}
   .header-one .top-header .address-wrapper .address:first-child {margin-right: 20px;}
   .header-one .top-header .address-wrapper .address {padding-right: 20px;}
-  #mega-menu-holder>ul> li> a {padding-right: 25px;padding-left: 15px;}
+  #mega-menu-holder>ul> li> a {padding-right: 12px;padding-left: 8px;}
   .header-one .theme-menu-wrapper .bg-wrapper {padding-left: 15px;}
   .theme-menu-wrapper .right-widget .cart-icon {margin-left: 15px;}
   .testimonial-section .wrapper {width: 65%;}
@@ -77,7 +77,7 @@
   .header-two .theme-menu-wrapper .right-widget ul li {line-height: 70px;}
   .header-two .theme-menu-wrapper .right-widget .cart-icon a span {top:20px;}
   .header-two .collapse-button .icon-bar {background: #0076CE;}
-  .header-two .menu-collapser {margin: 22px 0;}
+  .header-two .menu-collapser {margin: 0;}
   .header-two #mega-menu-holder>ul> li> a {padding-top: 0;padding-bottom: 0;}
   .header-two #mega-menu-holder li .sub-toggle {line-height: 40px;}
   .callout-banner,.callout-banner.no-bg .title {text-align: center;}

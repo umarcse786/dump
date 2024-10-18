@@ -406,16 +406,23 @@ body .theme-button-one:hover {background:#000f32; }
 /*------------------------ Theme menu Two --------------------*/
 .header-two #mega-menu-holder>ul> li> a,.header-two #mega-menu-holder li .sub-toggle,
 .header-two #mega-menu-holder>ul> li> a:before {color: #555555;}
-.header-two #mega-menu-holder>ul> li> a {padding-top: 38px;padding-bottom: 38px;}
+.header-two #mega-menu-holder>ul> li> a {padding-top: 36px;padding-bottom: 36px;}
 .header-two #mega-menu-holder>ul> li> a:before,
 .header-two #mega-menu-holder li .sub-toggle {line-height: 97px;}
 .header-two #mega-menu-holder li>ul.dropdown li:first-child {border-top:1px solid rgba(0,0,0,0.04);}
 .header-two .theme-menu-wrapper .bg-wrapper {position: relative;padding-left: 230px;}
+@media (max-width:780px) {
+  .bg-wrapper{
+    margin-top: 18px;
+    margin-bottom: 12px;
+  }
+}
 .header-two .theme-menu-wrapper .bg-wrapper .logo {
   position: absolute;
+
   left:0;
   z-index: 99;
-  top:50%;
+  top: 60%;
   -webkit-transform:translateY(-50%);
           transform:translateY(-50%);
 }

@@ -8,6 +8,7 @@
     -webkit-box-sizing: border-box;
 }
 .collapse-button {
+    color: red;
     position: relative;
     margin: 0;
     font-size: 14px;
